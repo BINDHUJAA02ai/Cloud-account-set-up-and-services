@@ -1,40 +1,49 @@
-EX NO: Cloud-account-set-up-and-services
-Name : BINDHUJAA.S
-Reg no: 212224230038
-Aim:
+**EX NO: Cloud-account-set-up-and-services**
+
+**Name : BINDHUJAA.S**
+
+**Reg no: 212224230038**
+
+**Aim:**
 To create an cloud account in AWS and to explore all of its services.
 
-Procedure
-Step 1: Go to the AWS Website
+**Procedure**
+
+_**Step 1**_: Go to the AWS Website
 • Visit https://aws.amazon.com
 
 • Click “Create an AWS Account” in the top right corner.
 
-Step 2: Enter Account Information
+
+_**Step 2**_: Enter Account Information
 • Email address – Use a valid email you have access to.
 
 • Password – Create a strong password.
 
 • AWS account name – This is the name you want to associate with your AWS account (e.g., your name or company name).
 
-Step 3: Choose Account Type
+
+_**Step 3**_: Choose Account Type
 • Personal or Professional – Select based on how you plan to use AWS.
 
 • Fill in your contact information (name, address, phone number).
 
-Step 4: Enter Payment Information
+
+_**Step 4**_: Enter Payment Information
 • Provide credit/debit card details.
 
 Note: You won’t be charged immediately. AWS offers a Free Tier, but entering card details is mandatory.
 
-Step 5: Verify Your Identity
+
+_**Step 5**_: Verify Your Identity
 • Enter your phone number.
 
 • AWS will send a verification code via call or text.
 
 • Enter the code to confirm your identity.
 
-Step 6: Choose a Support Plan
+
+_**Step 6**_: Choose a Support Plan
 Choose one of the following: • Basic Support (Free)
 
 • Developer Support
@@ -45,12 +54,14 @@ Choose one of the following: • Basic Support (Free)
 
 For most beginners, select Basic Support.
 
-Step 7: Complete the Sign-Up
+
+_**Step 7**_: Complete the Sign-Up
 • After reviewing all the details, click "Sign Up".
 
 • You’ll receive a confirmation email once your account is activated (usually within a few minutes).
 
-Step 8: Sign In to AWS Console
+
+_**Step 8**_: Sign In to AWS Console
 • Go to https://console.aws.amazon.com
 
 • Log in using your email and password to start using AWS services.
@@ -67,13 +78,13 @@ Enable IAM Identity Center. In IAM Identity Center, grant administrative access 
 Sign in as the user with administrative access
 To sign in with your IAM Identity Center user, use the sign-in URL that was sent to your email address when you created the IAM Identity Center user.
 
-Services Overview:
+**Services Overview:**
 • Explore all the available services in AWS platform.
 
-Output:
+**Output:**
 ![Uploading image.png…]()
 ![Uploading image.png…]()
 
 
-Result:
+**Result:**
 Thus an account was created in AWS platform and all the services were explored.
